@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Csharp DZ 2/1.0.0": {
+        "runtime": {
+          "Csharp DZ 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp DZ 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

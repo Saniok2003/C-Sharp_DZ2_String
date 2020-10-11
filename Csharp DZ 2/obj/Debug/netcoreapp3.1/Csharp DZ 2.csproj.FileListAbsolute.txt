@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\bin\Debug\netcoreapp3.1\Csharp DZ 2.exe
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\bin\Debug\netcoreapp3.1\Csharp DZ 2.deps.json
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\bin\Debug\netcoreapp3.1\Csharp DZ 2.runtimeconfig.json
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\bin\Debug\netcoreapp3.1\Csharp DZ 2.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\bin\Debug\netcoreapp3.1\Csharp DZ 2.dll
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\bin\Debug\netcoreapp3.1\Csharp DZ 2.pdb
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\obj\Debug\netcoreapp3.1\Csharp DZ 2.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\obj\Debug\netcoreapp3.1\Csharp DZ 2.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\obj\Debug\netcoreapp3.1\Csharp DZ 2.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\obj\Debug\netcoreapp3.1\Csharp DZ 2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\obj\Debug\netcoreapp3.1\Csharp DZ 2.dll
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\obj\Debug\netcoreapp3.1\Csharp DZ 2.pdb
+C:\Users\Hp\source\repos\Csharp DZ 2\Csharp DZ 2\obj\Debug\netcoreapp3.1\Csharp DZ 2.genruntimeconfig.cache
